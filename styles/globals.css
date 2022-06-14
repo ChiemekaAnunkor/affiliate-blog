@@ -32,3 +32,20 @@ a {
 #blue{
   background-color:#7eb3a7;
 }
+.row {
+  display: flex;
+  margin-left: 2rem;
+}
+
+.column {
+  flex: 50%;
+}
+
+.a-main {
+  border: 1px solid;
+  width: 100%;
+  padding: 1rem;
+  margin: 2rem;
+  flex: 95%;
+
+}
