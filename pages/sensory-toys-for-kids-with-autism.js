@@ -67,7 +67,6 @@ export default function AutismPage() {
       <p>To choose the sensory toys included in this piece, we consulted with experts in the field and found clinicians with experience with working with childen with autism between the ages on 06months to 15 years of age.</p>
 
 
-      <img src='../../sensorytoys.jpg' alt=''></img>
       </div>
       <div className={"column"}>
       <h2> Advertisment</h2>
