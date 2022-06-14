@@ -42,10 +42,18 @@ a {
 }
 
 .a-main {
-  border: 1px solid;
   width: 100%;
   padding: 1rem;
   margin: 2rem;
-  flex: 95%;
+  flex: 100%;
 
+}
+
+.image{
+  margin-left: 3rem;
+  position: relative;
+
+}
+.dates {
+  text-align: right
 }

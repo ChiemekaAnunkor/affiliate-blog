@@ -4,6 +4,7 @@ import styles from '../styles/Home.module.css'
 import {event} from "../lib/ga"
 import sensoryToys from "../public/img/sensorytoys.jpg"
 import logo from "../public/img/logo.jpg"
+import autism from "../public/img/autismchild.jpg"
 
 export default function AutismPage() {
   return (
@@ -17,14 +18,15 @@ export default function AutismPage() {
       </Head>
 
       <main className={styles.main}>
-      <h1> The 15 Best Sensory Toys for Exploring Different Textures, Sights, and Sounds for Kids With Autism</h1>
+      <h1> The 17 Best Sensory Toys for Exploring Textures for Kids With Autism</h1>
 
       <div className={"row"}>
-      <Image src={logo} alt="reviewersconnect logo"></Image>
-      <p>Author:M.A BCBA Clinical Director</p>
+      <Image src={logo} alt="reviewersconnect logo" title='reviewersconnect logo'  loading='eager'   ></Image>
+      <p>Author: M.A BCBA Clinical Director </p>
       </div>
       <div className={"row"}>
       <div className={"column"}>
+
         <h2> Toys functions</h2>
         <p>See other other Product reviews </p>
         <button> click me</button>
@@ -33,6 +35,13 @@ export default function AutismPage() {
       </div>
 
       <div className={"column a-main"}>
+      <div className={"image"}>
+      <Image src={autism} alt="child with autism" width={700} height={600}  title='female child with autism'  loading='lazy'></Image>
+
+      </div>
+      <p className='dates'> June 14, 2022</p>
+
+
       <h2> Choosing the best functional toy</h2>
       <p> The toy world can be overwhelming. There’s a lot to choose from. But sensory toys — toys or items that offer children a way to play using their senses — go back to basics. “Instead of just being entertained by a toy, sensory toys allow a child to really be engaged and have impact on the materials,” explains Jennie Monness, an early childhood educator and co-founder of Union Square Play, a parenting community and play space. “Sensory play provides opportunities for children to learn about the world around them by seeing the impact they can have on their surroundings. It helps young children make early connections, especially when they can truly experience a material versus watch it.”</p>
       <p>Sensory toys are particularly helpful in terms of childhood development. “You can watch a YouTube video on cooking, but you learn much more by actually cooking along with it,” explains Monness. The same goes for sensory play with infants and toddlers. “You can show a toddler pictures of a river but you can also fill a shallow bin with water and stones and have them actually touch, feel, splash and sit in it. The impact of experiencing play, especially play that uses more than one sense, is huge and makes the learning more comprehensive.” </p>
@@ -74,7 +83,7 @@ export default function AutismPage() {
         
       </div>
 
-      <a target="_blank"  rel="noreferrer" href="https://www.amazon.com/gp/search?ie=UTF8&tag=anchoraffilia-20&linkCode=ur2&linkId=d4b57bc9effdedd1c43445b729bd836b&camp=1789&creative=9325&index=toys-and-games&keywords=sensory toys for kids with autism">      <Image src={sensoryToys} alt="sensory toys list from amazon"/>
+      <a target="_blank"  rel="noreferrer" href="https://www.amazon.com/gp/search?ie=UTF8&tag=anchoraffilia-20&linkCode=ur2&linkId=d4b57bc9effdedd1c43445b729bd836b&camp=1789&creative=9325&index=toys-and-games&keywords=sensory toys for kids with autism">      <Image src={sensoryToys} alt="sensory toys list from amazon" title='sensory toys list from amazon' loading='lazy' />
 </a>
 
 
