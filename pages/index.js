@@ -13,7 +13,7 @@ export default function Home() {
         <title>Affliate Marketing company</title>
         <meta name="description" content="we review and compaire latest products so you dont have to" />
         <link rel="icon" href="/favicon.ico" />
-        <link rel='canonical' href='http://localhost:3000/' />
+        <link rel='canonical' href='https://reviewiersconnect.netlify.app/' />
         
       </Head>
 
@@ -32,7 +32,7 @@ export default function Home() {
         <h2> Blogs</h2>
         <p>17 best sensory toys for kids with autism</p>
         
-        <button href="https://https://reviewiersconnect.netlify.app/sensory-toys-for-kids-with-autism"> click me</button>
+        <button src="https://https://reviewiersconnect.netlify.app/sensory-toys-for-kids-with-autism"> click me</button>
 
 
       </div>
@@ -51,7 +51,21 @@ export default function Home() {
       <img src='https://ucompares.com/wp-content/uploads/2020/10/TravelPayouts.jpg' width={200} height={200}/> 
       <br/>
       </a>
-      <a href="https://www.travelpayouts.com/?marker=367105">Travel affiliate links</a>
+      <a target="_blank"  rel="noreferrer" href="https://www.travelpayouts.com/?marker=367105">  <button
+        onClick={() =>
+          event({
+            action: "travel payouts link",
+            params: {
+              search_term: "clicked fl",
+            },
+          })
+        }
+      >
+        Click me
+        </button>
+
+</a>
+      {/* <a href="https://www.travelpayouts.com/?marker=367105">Travel affiliate programs</a> */}
 
       </div>
   
@@ -60,7 +74,7 @@ export default function Home() {
 
 
       
-      <button
+      {/* <button
         onClick={() =>
           event({
             action: "affiliate link",
@@ -71,7 +85,7 @@ export default function Home() {
         }
       >
         Click me
-      </button>
+      </button> */}
 
       </main>
 

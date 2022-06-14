@@ -95,9 +95,9 @@ export default function AutismPage() {
       <a target="_blank"  rel="noreferrer" href="https://www.amazon.com/gp/search?ie=UTF8&tag=anchoraffilia-20&linkCode=ur2&linkId=d4b57bc9effdedd1c43445b729bd836b&camp=1789&creative=9325&index=toys-and-games&keywords=sensory toys for kids with autism">  <button
         onClick={() =>
           event({
-            action: "affiliate link",
+            action: "travel payouts links",
             params: {
-              search_term: "clicked AL",
+              search_term: "clicked tp link",
             },
           })
         }
