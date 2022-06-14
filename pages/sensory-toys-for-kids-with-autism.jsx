@@ -76,6 +76,7 @@ export default function AutismPage() {
       <div className={"column"}>
       <h2> Advertisment</h2>
       <p> Comming soon </p>
+      <a src="https://www.travelpayouts.com/?marker=367105">Travel affiliate links</a>
 
       </div>
 
