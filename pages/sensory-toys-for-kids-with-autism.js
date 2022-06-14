@@ -9,10 +9,10 @@ export default function AutismPage() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
-        <meta name="description" content="find the best sensory toys for kidds with autism" />
+        <title></title>
+        <meta name="description" content="he 15 Best Sensory Toys for Exploring Different Textures, Sights, and Sounds for Kids With Autism" />
         <link rel="icon" href="/favicon.ico" />
-        <link rel='canonical' href='http://localhost:3000/' />
+        <link rel='canonical' href='https://reviewiersconnect.netlify.app/sensory-toys-for-kids-with-autism' />
         
       </Head>
 
@@ -20,7 +20,7 @@ export default function AutismPage() {
       <h1> The 15 Best Sensory Toys for Exploring Different Textures, Sights, and Sounds for Kids With Autism</h1>
 
       <div className={"row"}>
-      <Image src={logo} ></Image>
+      <Image src={logo} alt="reviewersconnect logo"></Image>
       <p>Author:M.A BCBA Clinical Director</p>
       </div>
       <div className={"row"}>
@@ -79,7 +79,7 @@ export default function AutismPage() {
         
       </div>
 
-      <a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=anchoraffilia-20&linkCode=ur2&linkId=d4b57bc9effdedd1c43445b729bd836b&camp=1789&creative=9325&index=toys-and-games&keywords=sensory toys for kids with autism">      <Image src={sensoryToys}/>
+      <a target="_blank"  rel="noreferrer" href="https://www.amazon.com/gp/search?ie=UTF8&tag=anchoraffilia-20&linkCode=ur2&linkId=d4b57bc9effdedd1c43445b729bd836b&camp=1789&creative=9325&index=toys-and-games&keywords=sensory toys for kids with autism">      <Image src={sensoryToys} alt="sensory toys list from amazon"/>
 </a>
 
 
@@ -87,7 +87,7 @@ export default function AutismPage() {
         
       </div>
 
-      <a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=anchoraffilia-20&linkCode=ur2&linkId=d4b57bc9effdedd1c43445b729bd836b&camp=1789&creative=9325&index=toys-and-games&keywords=sensory toys for kids with autism">  <button
+      <a target="_blank"  rel="noreferrer" href="https://www.amazon.com/gp/search?ie=UTF8&tag=anchoraffilia-20&linkCode=ur2&linkId=d4b57bc9effdedd1c43445b729bd836b&camp=1789&creative=9325&index=toys-and-games&keywords=sensory toys for kids with autism">  <button
         onClick={() =>
           event({
             action: "affiliate link",
