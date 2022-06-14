@@ -47,7 +47,6 @@ export default function AutismPage() {
       </ul>
       </p>
       <h2>Staying safe while enjoying sensory toys</h2>
-      <p>As far as sensory toys go there are always precautions to take in terms of safety. The American Academy of Pediatrics &#34;AAP&#34; notes that toys should be large &#34;larger than your child's mouth to prevent choking&#34; sturdy, nontoxic, not too loud and age-appropriate. The group has a full list of guidelines on its site to consider before purchasing a toy.</p>
 
       <h2>How to choose the right sensory toy for your specific needs</h2>
 
