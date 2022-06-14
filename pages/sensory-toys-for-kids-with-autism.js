@@ -40,16 +40,16 @@ export default function AutismPage() {
       <h2>Different types of sensory toys</h2>
       <p>When it comes to sensory toys and products, there are all different options on the market and sensory toys can be categorized in a variety of ways. (Some of them don’t always look like traditional “toys,” either, as you’ll see from the list below.) Monness suggests grouping sensory toys by the experience they provide as well as who a child is. </p>
       <p>“Sensory materials are incredibly valuable because they allow children to act on urges they have as they are exploring the world,” she explains. “These tendencies in play are formally called schemas.”</p>
-      <p>One schema that a child can act on using sensory materials, for example, is “transforming schema,” aka discovering how a material can change property. “This is often why a child will get very messy with sensory materials — they are figuring out the unique properties of something like slime and how it oozes, pours, plops and changes depending on how it changes shape depending on how it's used.”</p>
+      <p>One schema that a child can act on using sensory materials, for example, is &#34;transforming schema,&#34; aka discovering how a material can change property. &#34;This is often why a child will get very messy with sensory materials — they are figuring out the unique properties of something like slime and how it oozes, pours, plops and changes depending on how it changes shape depending on how it's used.&#34;</p>
       <p>Monness notes that some materials and types of sensory toys include:
       <ul>
-        <li>Sound-making sensory toys: These allow a child to see the effect they have on the environment ("when I shake this, it makes this noise!" or "When I bang this, it makes this noise, but when I bang that other toy, it doesn't make as loud of a noise").</li>
+        <li>Sound-making sensory toys: These allow a child to see the effect they have on the environment &#34;when I shake this, it makes this noise!&#34; or &#34;When I bang this, it makes this noise, but when I bang that other toy, it doesn't make as loud of a noise&#34;.</li>
         <li>Water sensory play: Children see how they create splashes, how things sink in water or float, how they can pour, dump, or splash.</li>
         <li>Baking activities: These use touch, smell and taste, allowing children to compare the differences at each step of the process.</li>
       </ul>
       </p>
       <h2>Staying safe while enjoying sensory toys</h2>
-      <p>As far as sensory toys go, there are always precautions to take in terms of safety. The American Academy of Pediatrics (AAP) notes that toys should be large (larger than your child's mouth to prevent choking), sturdy, nontoxic, not too loud and age-appropriate. The group has a full list of guidelines on its site to consider before purchasing a toy.</p>
+      <p>As far as sensory toys go, there are always precautions to take in terms of safety. The American Academy of Pediatrics &#34;AAP&#34; notes that toys should be large &#34;larger than your child's mouth to prevent choking&#34;, sturdy, nontoxic, not too loud and age-appropriate. The group has a full list of guidelines on its site to consider before purchasing a toy.</p>
       <p>Monness notes that seeing where a child is developmentally and monitoring closely is also important. “Children are a lot more competent than we believe them to be,” she says. While safety always comes first, sometimes nervousness, she notes, can indicate, “‘I don’t trust you,’ and then they don’t really learn to trust themselves.” That said, there are instances where you should always intervene for your child’s safety, such as if she starts to throw sand (which can get caught in her eyes) or tries to put stones, marbles or other small toys in her mouth (which are choking hazards). </p>
 
       <h2>How to choose the right sensory toy for your specific needs</h2>
