@@ -13,6 +13,7 @@ a {
 
 * {
   box-sizing: border-box;
+  
 }
 
 .navbar{
@@ -57,3 +58,27 @@ a {
 .dates {
   text-align: right
 }
+.button{
+  margin: 1rem;
+  width: 100%;
+  padding: 1rem 16rem 1rem 16rem;
+  display:block;
+  color: coral;
+  background-color:black;
+  font-size: 5rem;
+  box-shadow:  5px 10px;
+  border-radius: 20px;
+
+}
+.date
+
+.p{
+  line-height: 2;
+  position: relative; 
+  top: -.9em;}
+
+
+  .adimage{
+    width: 12rem;
+    height: 12rem;
+  }
